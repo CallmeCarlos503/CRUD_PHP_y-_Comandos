@@ -1,0 +1,4 @@
+Carlos Alberto Sanchez Castillo 17-0656-2019
+Rodolfo Alberto Canjura Oliva 17-0821-2019
+Karla Stefany Estupinian Marroquín 17-2604-2019
+Nota: utilice diferentes modulos como traducto y impresion solo meramente por estetica aunque esas funciones si ejecutan y hacen con facilidad
